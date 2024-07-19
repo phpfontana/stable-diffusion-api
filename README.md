@@ -1,12 +1,6 @@
-# stable-diffusion-api
-Stable Diffusion API built with FastAPI, and Diffusers
-Sure, here's an improved README for the Stable Diffusion API:
-
----
-
 # Stable Diffusion API
 
-Welcome to the Stable Diffusion API! This API leverages FastAPI and Diffusers to provide powerful image generation capabilities. Create stunning images from textual prompts using state-of-the-art diffusion models.
+Stable Diffusion API built with FastAPI, and Diffusers
 
 ## Features
 
