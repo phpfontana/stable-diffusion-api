@@ -5,7 +5,6 @@ Stable Diffusion API built with FastAPI, and Diffusers
 ## Features
 
 - **Image Generation**: Generate images from textual descriptions.
-- **Base64 Encoding**: Receive images encoded in base64 format for easy integration.
 
 ## Endpoints
 
